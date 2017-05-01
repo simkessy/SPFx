@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "spfxkcdev",
+  "container": "helloworld-webpart",
+  "accessKey": "pn/pIodtWsq7t088H74XHTvgDZ3B8icRpnxWTAy5UtuphSlYVdWLX7vEIpbmQBrOVEZ35ZWoI4koH+jGlmEVbg=="
+}
